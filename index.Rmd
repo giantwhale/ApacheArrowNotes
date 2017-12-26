@@ -1,0 +1,16 @@
+--- 
+title: "Apache Arrow Study Notes"
+author: "Yue Zhao"
+date: "2017-12-25"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+biblio-style: apalike
+link-citations: yes
+github-repo: giantwhale/ApacheArrowNotes
+description: "Apache Arrow Study Notes"
+---
+
+# Introduction {-}
+
+omitted ...
